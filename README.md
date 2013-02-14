@@ -2,7 +2,7 @@
 
 # Wprowadzenie
 
-
+:)
 Od zaprzyjaźnionego zespołu, tworzącego portal dla T-Mobile, dostałem wczesny dostęp do  Open API, czyli RESTowego API dla usług komórkowych. Czym Open API jest, nie będę się rozpisywał, bo to widać prawie natychmiast, spróbuję jednak pokazać przykład, co z takim API można zrobić.
 
 
